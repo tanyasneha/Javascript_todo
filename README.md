@@ -1,1 +1,1 @@
-# Javascript_todo
+# Javascript exercsies.
